@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void method1() {
 
     }
+
+    private void methodToDemoBranchLesson1() {
+
+    }
 }
